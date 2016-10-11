@@ -1,2 +1,1 @@
-### Boilerplate React App
-# ReactBoilerplate2
+# ReactTimer
